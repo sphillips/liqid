@@ -1,5 +1,5 @@
 # Liqid Coding Challenge
-Requirements
+## Requirements
 - The application should get following inputs
   - A stock symbol e.g. “AAPL”
   - Start date or range of date
