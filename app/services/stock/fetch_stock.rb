@@ -1,0 +1,3 @@
+class Stock::FetchStock
+  
+end
